@@ -1,8 +1,6 @@
 Personal Website — Starter
 
-Overview
-- Small multi-page personal site with `index.html`, `about.html`, `projects.html`, `resume.html`.
-- Responsive CSS in `css/style.css` and small JS in `js/main.js`.
+
 
 Customize
 1. Replace `USERNAME`, `REPO`, and `Your Name` with your details in the HTML files.
